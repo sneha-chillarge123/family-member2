@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(#ff03d5 0%, #b300b3  100%);
+    background-size: cover;
+}
+
+#family_members{
+    font-size: 24px;
+    color: aliceblue;
+    font-family: 'Grape Nuts', cursive;
+
+}
+
+#Member,#Accuracy{
+   color: aliceblue;
+}
+
+#heading1{
+    font-family: 'Bebas Neue', cursive;
+}
